@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SleezyDev
-- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Software Developement
 - 💞️ I’m looking to collaborate on Python and Webdesign 
 - 📫 How to reach me dennisarthurschimek@gmail.com
